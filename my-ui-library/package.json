@@ -1,6 +1,7 @@
 {
   "name": "@firmanarif/my-ui-mod",
   "version": "1.0.1",
+  "private": false,
   "main": "dist/index.js",
   "module": "dist/index.mjs",
   "scripts": {
